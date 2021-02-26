@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "email": "denisknk@mail.ru",
+      "password": "efsf",
+      "id": 1
+    }
+  ],
+  "files": [
+    {
+      "id": 1,
+      "title": "File 1",
+      "size": 100,
+      "createdAt": "2021-12-25T14:48:00"
+    },
+    {
+      "id": 2,
+      "title": "File 2",
+      "size": 8,
+      "createdAt": "2021-12-25T13:38:00"
+    },
+    {
+      "id": 3,
+      "title": "File 3",
+      "size": 20,
+      "createdAt": "2021-12-25T13:28:00"
+    },
+    {
+      "id": 4,
+      "title": "File 4",
+      "size": 22,
+      "createdAt": "2021-12-25T14:25:00"
+    },
+    {
+      "id": 5,
+      "title": "File 5",
+      "size": 10,
+      "createdAt": "2021-12-25T15:51:00"
+    },
+    {
+      "id": 6,
+      "title": "File 6",
+      "size": 11,
+      "createdAt": "2021-12-25T15:41:00"
+    },
+    {
+      "id": 7,
+      "title": "File 7",
+      "size": 12,
+      "createdAt": "2021-12-25T14:01:00"
+    },
+    {
+      "id": 8,
+      "title": "File 8",
+      "size": 66,
+      "createdAt": "2021-12-25T15:33:00"
+    },
+    {
+      "id": 9,
+      "title": "File 9",
+      "size": 78,
+      "createdAt": "2021-12-25T15:15:00"
+    },
+    {
+      "id": 10,
+      "title": "File 10",
+      "size": 19,
+      "createdAt": "2021-12-25T14:11:00"
+    },
+    {
+      "id": 11,
+      "title": "File 11",
+      "size": 25,
+      "createdAt": "2021-12-25T15:39:00"
+    },
+    {
+      "id": 12,
+      "title": "File 12",
+      "size": 85,
+      "createdAt": "2021-12-25T15:50:00"
+    }
+  ]
+}
